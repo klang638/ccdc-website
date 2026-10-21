@@ -13,15 +13,23 @@ const CONFIG = {
 
 // NEXT MEETING. Date format: YYYY-MM-DDTHH:MM (24-hour time)
 const NEXT = {
-  title: "Wig Styling Workshop",
-  date: "2026-10-16T18:00",
+  title: "Free Cosplay Workshop",
+  date: "2026-10-23T18:00",
   location: "Strong Hall, Room 103",
-  description: "Halloween is approaching 👀 Have you ever wondered how to style wigs? From cutting to crimping, and everything in between, we will show you!",
-  bring: ["A wig you want to practice on (optional)"]
+  description: "Halloween is so close!! Join us to work on any cosplay project, whether it be wigs, costumes, props, or anything else!",
+  bring: ["A cosplay to work on (optional)", "Cosplay materials (We will provide some, but bring what you can!)"]
 };
 
 // PAST MEETINGS. Newest first. Resources are optional.
 const PAST = [
+  {
+    date: "2026-10-16",
+    title: "Wig Styling Workshop",
+    summary: "In this meeting we covered how to style wigs, from crimping, teasing, cutting, and hairspraying!",
+    resources: [
+      { label: "Slides", url: "https://docs.google.com/presentation/d/1PezqsW2KVnWbk8fnbi7b4hRUTFaDQgTph3JNEFi1fBg/edit?usp=sharing" },
+    ]
+  },
   {
     date: "2026-10-09",
     title: "How to Cosplay on a Budget",
