@@ -116,6 +116,23 @@ const GALLERY = [
   { src: "images/photo (31).jpg", tag: "Meetings" },
   { src: "images/photo (32).jpg", tag: "Meetings" },
   { src: "images/photo (33).jpg", tag: "Meetings" },
+  { src: "images/photo (34).jpg", tag: "Meetings" },
+  { src: "images/photo (35).jpg", tag: "Meetings" },
+  { src: "images/photo (36).jpg", tag: "Meetings" },
+  { src: "images/photo (37).jpg", tag: "Meetings" },
+  { src: "images/photo (38).jpg", tag: "Meetings" },
+  { src: "images/photo (39).jpg", tag: "Meetings" },
+  { src: "images/photo (40).jpg", tag: "Member Work" },
+  { src: "images/photo (41).jpg", tag: "Member Work" },
+  { src: "images/photo (42).jpg", tag: "Member Work" },
+  { src: "images/photo (43).jpg", tag: "Member Work" },
+  { src: "images/photo (44).jpg", tag: "Member Work" },
+  { src: "images/photo (45).jpg", tag: "Member Work" },
+  { src: "images/photo (46).jpg", tag: "Member Work" },
+  { src: "images/photo (47).jpg", tag: "Member Work" },
+  { src: "images/photo (48).jpg", tag: "Member Work" },
+  { src: "images/photo (49).jpg", tag: "Member Work" },
+  { src: "images/photo (50).jpg", tag: "Member Work" }
 
 ];
 // OFFICERS. photo is optional (e.g. "images/officers/jane.jpg"); emoji shows if no photo.
