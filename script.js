@@ -13,19 +13,19 @@ const CONFIG = {
 
 // NEXT MEETING. Date format: YYYY-MM-DDTHH:MM (24-hour time)
 const NEXT = {
-  title: "CCDC HALLOWEEN PARTY!!!",
-  date: "2026-10-30T18:00",
+  title: "CCDC x Furry Club Clothes Swap & Hangout",
+  date: "2026-11-05T18:00",
   location: "Strong Hall, Room 103",
-  description: "CCDC's Halloween Party! We will be having a cosplay contest (With a $50 prize pool!), a yummy potluck (sign up in the Discord Server!), karaoke, and more!!",
-  bring: ["A cosplay or costume, and stuff for the potluck if you want to"]
+  description: "A club collab meeting betweeen CCDC and the Furry Club! Come bring clothes, cosplay, resources, or anything else you'd like to swap with others, or just come and hang out and make some new friends!",
+  bring: ["Anything you'd offer to swap with others with!"]
 };
 
 // PAST MEETINGS. Newest first. Resources are optional.
 const PAST = [
   {
-    date: "2026-10-23",
-    title: "Freeplay Cosplay Workshop",
-    summary: "In this meeting we had a post-halloween meeting to work on our cosplay projects!",
+    date: "2026-10-30",
+    title: "CCDC Halloween Party",
+    summary: "In this meeting we had a halloween party with a cosplay contest, potluck, and karaoke!",
     
   },
   {
